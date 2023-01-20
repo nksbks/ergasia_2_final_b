@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="ao`Q?3F{==Kgl8At`6q}" x="-200" y="-530"><statement name="HANDLER"><block type="device_show_leds" id="ZsJCbM.,|?$4/si~]y8H"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="ao`Q?3F{==Kgl8At`6q}" x="177" y="-408"><statement name="HANDLER"><block type="device_show_leds" id="ZsJCbM.,|?$4/si~]y8H"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # # . 
